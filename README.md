@@ -10,10 +10,10 @@
        <p>¡Tu tienda de confianza con productos frescos y economicos!</p>
        <p>¡Siempre a su lado!</p>
        <img width="300" heigth="200" src="SUPER.jpg" >
-     
-       <p>Fue inaugurado en noviembre de 2023. </p> 
-      <p>Número super pasadena
-6682328252</p>
+    
+<p> Fue inaugurado en noviembre de 2023. </p> 
+      <p> Número super pasadena </p>
+<p>6682328252</p>
 <p>Ubicación de SUPER PASADENA en Sinaloa:
    <br> 
 Avenida PASADENA Fraccionamiento LA CANTERA Los Mochis, cp 81294</p>
@@ -30,7 +30,7 @@ Avenida PASADENA Fraccionamiento LA CANTERA Los Mochis, cp 81294</p>
            <LI> Contacto </LI>
            <br></br>
            
-           </OL>
+</OL>
            <hr></hr>
            <h3>Productos: </h3>
            <LI> -Frutas y verduras</LI>
@@ -47,7 +47,7 @@ Avenida PASADENA Fraccionamiento LA CANTERA Los Mochis, cp 81294</p>
             <th>Dia</th>
             <th>Horario</th>
 
-        </tr>
+ </tr>
         <tr>
             <th>Lunes-Viernes </th>
             <th>7:00 AM - 11:00 PM</th>
@@ -75,14 +75,14 @@ Avenida PASADENA Fraccionamiento LA CANTERA Los Mochis, cp 81294</p>
     <h4>Puntuacion</h4>
     <img width="200" heigth="100" src="calif.jpg" >
      
-     <hr></hr>
+  <hr></hr>
      <br></br>
      <a href="https://comercializadoras.com.mx/super-pasadena-14f7fa5b">Mas informacion...</a><br></br>
       
-     <br></br>
+<br></br>
      <hr></hr> 
      
-     <p>CHAVEZ ABOYTES SHERLYN AMAIRANI</p>
+<p>CHAVEZ ABOYTES SHERLYN AMAIRANI</p>
      <p>CRUZ VEGA SANTIAGO DE JESUS</p>
      <p>FLORES PEREZ SABINA GABRIELA</p>
      <br>
