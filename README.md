@@ -1,4 +1,3 @@
-
 <html>
     <TITLE>1.3 Elementos de lenguaje HTML</TITLE>
    <head> Trabajo 3: tienda de barrio </head>
